@@ -11,3 +11,5 @@ xgboost
 lightgbm
 seaborn
 plotly
+torch
+
