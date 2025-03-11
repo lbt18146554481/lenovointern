@@ -12,6 +12,7 @@ lightgbm
 seaborn
 plotly
 torch
-tqbm
+tqdm
+
 
 
